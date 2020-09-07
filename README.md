@@ -116,8 +116,8 @@
 8. 云天励飞Intellifusion
 9. 上海银晨智能识别科技有限公司 IS’Vision
 
-![](/asset/1.png)
-![](/asset/2.png)
+![](/asset/1.jpg)
+![](/asset/2.jpg)
 
 ### 2020年7月20日
 
