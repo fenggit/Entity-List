@@ -21,10 +21,9 @@
 ### >>>>> 2018年8月1日 <<<<<
 2018年8月1日，美国BIS将于美东时间8月1日正式以国家安全和外交利益为由，将44家中国企业（8个实体和36个附属机构）列入出口管制实体清单，其中包括很多研究机构。美国正式开始对中国进行技术封锁。
 
+#### 详细名单
 [官方链接](https://www.federalregister.gov/documents/2018/08/01/2018-16474/addition-of-certain-entities-and-modification-of-entry-on-the-entity-list)
 
-
-#### 详细名单
 1. 中国航天科工集团第二研究院，及其13个下属机构：
 
 > 航天科工2院上市平台航天长峰、航天发展
@@ -136,6 +135,7 @@
 
 “实体名单”上华为的70家非美国关联公司，它们分布在这26个国家和地区：比利时、玻利维亚、巴西、缅甸、加拿大、智利、中国、埃及、德国、香港、牙买加、日本、约旦、黎巴嫩、马达加斯加、荷兰、阿曼、巴基斯坦、巴拉圭、卡塔尔、新加坡、斯里兰卡、瑞士、中国台湾、英国和越南。
 
+#### 详细名单
 [官方链接](https://www.commerce.gov/news/press-releases/2019/05/department-commerce-announces-addition-huawei-technologies-co-ltd)
 
 [清单](https://www.ecfr.gov/cgi-bin/retrieveECFR?gp=1&SID=9ae4a21068f2bd41d4a5aee843b63ef1&ty=HTML&h=L&n=15y2.1.3.4.28&r=PART#ap15.2.744_122.4)
@@ -143,6 +143,9 @@
 ### >>>>> 2019年6月21日 <<<<<
 
 2019年6月21日，美国商务部修改了出口管理条例，将五家中国科技企业列入”实体清单”，针对芯片企业，超级计算机。
+
+#### 详细名单
+[官网链接](https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-13245.pdf)
 
 1. 中科曙光
 2. 无锡江南计算技术研究所
@@ -156,6 +159,9 @@
 
 2019年8月15日，美国商务部对中国核电行业展开制裁，将中广核集团及其关联公司共4家公司加入”实体清单”，针对核电企业。
 
+#### 详细名单
+[官网链接](https://www.federalregister.gov/documents/2019/08/14/2019-17409/addition-of-certain-entities-to-the-entity-list-revision-of-entries-on-the-entity-list-and-removal)
+
 1. 中广核集团
 2. 中国广核集团有限公司
 3. 中广核研究院有限公司
@@ -165,7 +171,8 @@
 
 2019年10月7日，将28家中国机构和公司进入该名单，针对人工智能企业。
 
-https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-22210.pdf
+#### 详细名单
+[官网链接](https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-22210.pdf)
 
 1. 中国的新疆维吾尔自治区人民政府公安局
 2. 19家附属政府机构
@@ -182,6 +189,9 @@ https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-22210.pdf
 ### >>>>> 2020年5月22日 <<<<<
 
 2020年5月22日，将共计33家中国公司及机构列入”实体清单”，针对人工智能、信息安全、激光、视频监控科技公司和机构。
+
+#### 详细名单
+[官网链接](https://www.commerce.gov/news/press-releases/2020/05/commerce-department-add-nine-chinese-entities-related-human-rights)
 
 1. 北京中云融信科技有限公司Beijing Cloudmind Technology Co., Ltd.
 2. 北京计算机科学研究中心Beijing Computational Science Research Center
@@ -226,12 +236,15 @@ https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-22210.pdf
 
 2020年7月20日，美国商务部工业安全局（BIS）再将11家中国公司列入“实体清单”，以华大基因下属两家公司因“涉嫌”协助采集少数民族群体的基因，进行DNA遗传分析而遭到制裁，其他9家给出的理由则是涉及“强制劳动”。
 
-> https://www.commerce.gov/news/press-releases/2020/07/commerce-department-adds-eleven-chinese-entities-implicated-human
-
+#### 详细名单
+[官网链接](https://www.commerce.gov/news/press-releases/2020/07/commerce-department-adds-eleven-chinese-entities-implicated-human)
 
 ### >>>>> 2020年8月17日  <<<<<
 
 美国商务部进一步收紧了对华为获取美国技术的限制，同时将华为在全球21个国家的38家子公司列入“实体清单”。因为它们存在代表华为行事而违反美国国家安全或外交政策利益的重大风险。
+
+#### 详细名单
+[官网链接](https://www.commerce.gov/news/press-releases/2020/08/commerce-department-further-restricts-huawei-access-us-technology-and)
 
 ### >>>>> 2020年8月26日   <<<<<
 
@@ -239,7 +252,9 @@ https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-22210.pdf
 
 美国商务部宣布将包括中国交建5家子公司在内的24家中企列入“实体清单”.
 
-> https://www.commerce.gov/news/press-releases/2020/08/commerce-department-adds-24-chinese-companies-entity-list-helping-build
+#### 详细名单
+
+[官网链接](https://www.commerce.gov/news/press-releases/2020/08/commerce-department-adds-24-chinese-companies-entity-list-helping-build)
 
 1. 中交疏浚（集团）股份有限公司
 2. 中交天津航道局有限公司
@@ -265,5 +280,9 @@ https://s3.amazonaws.com/public-inspection.federalregister.gov/2019-22210.pdf
 22. 天津七六四航空电子技术有限公司
 23. 天津七六四通信导航技术有限公司
 24. 武汉迈力特通信有限公司
+
+
+参考资料：
+ >[2018年至今美国制裁中国企业](http://www.sykv.cn/cat/ai/27638.html)
 
 
