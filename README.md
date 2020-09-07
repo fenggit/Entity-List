@@ -4,7 +4,7 @@
 
 ## 概述
 
-| 时间  | 数量  | 理由  | 
+| 时间  | 数量  | 说明  | 
 | ------------ | ------------ | ------------ |
 | 2018年8月1日  | 44  | 针对中国航天及军工类企业   |
 | 2019年5月15日  | 70  | 针对华为及其70家附属公司  |
@@ -80,41 +80,44 @@
 ### 2020年5月23日
 2020年5月23日，将共计33家中国公司及机构列入”实体清单”，针对人工智能、信息安全、激光、视频监控科技公司和机构。
 
-1、北京中云融信科技有限公司Beijing Cloudmind Technology Co., Ltd.
-2、北京计算机科学研究中心Beijing Computational Science Research Center
-3、Beijing Jincheng Huanyu Electronics Co., Ltd.
-4、北京高压科学研究中心Center for High Pressure Science and Technology Advanced Research
-5、成都精密光学工程研究中心Chengdu Fine Optical Engineering Research Center
-6、中国九源贸易公司China Jiuyuan Trading Corporation
-7、达闼科技（香港）Cloudminds (Hong Kong) Limited
-8、达闼科技Cloudminds Inc.
-9、哈尔滨创越科技有限公司Harbin Chuangyue Technology Co., Ltd.
-10、哈尔滨工程大学Harbin Engineering University
-11、哈尔滨工业大学Harbin Institute of Technology
-12、哈尔滨蕴力达科技开发有限公司Harbin Yun Li Da Technology and Development Co., Ltd.
-13、精纳科技有限公司JCN (HK) Technology Co. Ltd.
-14、快急送物流（中国）有限公司K Logistics (China) Limited
-15、Kunhai (Yanjiao) Innovation Research Institute
-16、顶峰多尺度科学研究所Peac Institute of Multiscale Science
-17、奇虎360Qihoo 360 Technology Co. Ltd.
-18、奇虎360Qihoo 360 Technology Company
-19、Shanghai Nova Instruments Co., Ltd.
-20、四川鼎澄物资贸易公司Sichuan Dingcheng Material Trade Co., Ltd.
-21、四川新天元科技有限公司Sichuan Haitian New Technology Group Co. Ltd.
-22、四川图斯克进出口贸易有限公司Sichuan Zhonghe Import and Export Trade Co., Ltd.
-23、砺剑天眼科技有限公司Skyeye Laser Technology Limited
-24、复旦大学副教授朱杰进Zhu Jiejin
+1. 北京中云融信科技有限公司Beijing Cloudmind Technology Co., Ltd.
+2. 北京计算机科学研究中心Beijing Computational Science Research Center
+3. Beijing Jincheng Huanyu Electronics Co., Ltd.
+4. 北京高压科学研究中心Center for High Pressure Science and Technology Advanced Research
+5. 成都精密光学工程研究中心Chengdu Fine Optical Engineering Research Center
+6. 中国九源贸易公司China Jiuyuan Trading Corporation
+7. 达闼科技（香港）Cloudminds (Hong Kong) Limited
+8. 达闼科技Cloudminds Inc.
+9. 哈尔滨创越科技有限公司Harbin Chuangyue Technology Co., Ltd.
+10. 哈尔滨工程大学Harbin Engineering University
+11. 哈尔滨工业大学Harbin Institute of Technology
+12. 哈尔滨蕴力达科技开发有限公司Harbin Yun Li Da Technology and Development Co., Ltd.
+13. 精纳科技有限公司JCN (HK) Technology Co. Ltd.
+14. 快急送物流（中国）有限公司K Logistics (China) Limited
+15. Kunhai (Yanjiao) Innovation Research Institute
+16. 顶峰多尺度科学研究所Peac Institute of Multiscale Science
+17. 奇虎360Qihoo 360 Technology Co. Ltd.
+18. 奇虎360Qihoo 360 Technology Company
+19. Shanghai Nova Instruments Co., Ltd.
+20. 四川鼎澄物资贸易公司Sichuan Dingcheng Material Trade Co., Ltd.
+21. 四川新天元科技有限公司Sichuan Haitian New Technology Group Co. Ltd.
+22. 四川图斯克进出口贸易有限公司Sichuan Zhonghe Import and Export Trade Co., Ltd.
+23. 砺剑天眼科技有限公司Skyeye Laser Technology Limited
+24. 复旦大学副教授朱杰进Zhu Jiejin
 
 另有9家中国机构及公司被列入实体名单：
-1、中国公安部法医学研究所China’s Ministry of Public Security’s Institute of Forensic Science
-2、阿克苏华孚色纺有限公司Aksu Huafu Textiles Co.
-3、云从科技CloudWalk Technology
-4、烽火科技集团FiberHome Technologies Group and the subsidiary
-5、南京烽火星空通信发展有限公司Nanjing FiberHome Starrysky Communication Development
-6、东方网力NetPosa
-7、深网视界SenseNets
-8、云天励飞Intellifusion
-9、上海银晨智能识别科技有限公司 IS’Vision
+1. 中国公安部法医学研究所China’s Ministry of Public Security’s Institute of Forensic Science
+2. 阿克苏华孚色纺有限公司Aksu Huafu Textiles Co.
+3. 云从科技CloudWalk Technology
+4. 烽火科技集团FiberHome Technologies Group and the subsidiary
+5. 南京烽火星空通信发展有限公司Nanjing FiberHome Starrysky Communication Development
+6. 东方网力NetPosa
+7. 深网视界SenseNets
+8. 云天励飞Intellifusion
+9. 上海银晨智能识别科技有限公司 IS’Vision
+
+[](asset/1.png)
+[](asset/2.png)
 
 ### 2020年7月20日
 
